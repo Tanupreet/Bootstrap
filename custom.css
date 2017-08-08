@@ -1,3 +1,22 @@
-body{
-	padding-top: 50px;
+
+/*
+.col-sm .a{
+	background: url("../Bootstrap/hero.jpg");
+}
+
+*/
+
+.form-control{
+	background-color: #303030;
+}
+
+img{
+	width: 100%;
+}
+
+#section{
+	padding-left: 500px;
+}
+.jumbotron{
+	margin-bottom: 0px;
 }
