@@ -4,6 +4,7 @@
 	background-color: #333;
 	color:white;
 	padding: 10px 10px;
+	
 
 }
 
@@ -11,7 +12,7 @@
 float: right;
 }
 #bar li a{
-	margin-right:15px;
+	margin-right:25px;
 	color: white;
 
 }	
@@ -34,4 +35,9 @@ font-size: 20px;
 #img{
 height:500px;
 	
+}
+
+.item{
+	 position: absolute;
+    left: 1200px;
 }
