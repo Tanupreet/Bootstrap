@@ -1,4 +1,24 @@
 
+h5 {
+    color: white;
+    background-color: grey;
+    
+    margin: auto;
+}
+
+.custom {
+	list-style-type: none;
+}
+
+.social{
+list-style-type: none;
+float: left;
+padding-top: 65px;
+}
+
+.customTitle{
+	background-color: grey;
+}
 
 #header{
 	background-color: #333;
@@ -18,7 +38,7 @@ float: right;
 }	
 
 #bar ul li a:hover{
-color:#33ff86;
+color:blue;
 
 }
 /*#logo{
@@ -37,7 +57,20 @@ height:500px;
 	
 }
 
-.item{
+.footer {
+    background-color: black;
+    color: white;
+}
+
+/*.politics{
+	height: 800px;
+}*/
+/*
+.sub{
 	 position: absolute;
     left: 1200px;
 }
+
+.sub:hover{
+	color: blue;
+}*/
