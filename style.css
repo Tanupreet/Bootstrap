@@ -31,46 +31,24 @@ padding-top: 65px;
 #right ul li{
 float: right;
 }
-#bar li a{
+#bar li a{													/*header*/
 	margin-right:25px;
 	color: white;
 
 }	
 
-#bar ul li a:hover{
+#bar ul li a:hover{											/*header*/
 color:blue;
 
 }
-/*#logo{
-	background-color:black;
-}*/
-#third{
-	background-color: black;
-}
-#nav3{
+
+#nav3{														/*navbar*/
 margin-left: 10px;
 padding: 0px 15px;
 font-size: 20px;
 }
-#img{
-height:500px;
-	
-}
 
-.footer {
+.footer {													/*//footer*/
     background-color: black;
     color: white;
 }
-
-/*.politics{
-	height: 800px;
-}*/
-/*
-.sub{
-	 position: absolute;
-    left: 1200px;
-}
-
-.sub:hover{
-	color: blue;
-}*/
