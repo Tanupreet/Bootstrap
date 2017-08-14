@@ -6,21 +6,9 @@ h5 {
     margin: auto;
 }
 
-.custom {
-	list-style-type: none;
-}
 
-.social{
-list-style-type: none;
-float: left;
-padding-top: 65px;
-}
 
-.customTitle{
-	background-color: grey;
-}
-
-#header{
+#header{													/*navbar*/
 	background-color: #333;
 	color:white;
 	padding: 10px 10px;
@@ -31,6 +19,7 @@ padding-top: 65px;
 #right ul li{
 float: right;
 }
+
 #bar li a{													/*header*/
 	margin-right:25px;
 	color: white;
@@ -51,4 +40,18 @@ font-size: 20px;
 .footer {													/*//footer*/
     background-color: black;
     color: white;
+}
+
+.social{													/*footer*/
+list-style-type: none;
+float: left;
+padding-top: 65px;
+}
+
+.custom {													/*footer*/
+	list-style-type: none;
+}
+
+.customTitle{												/*footer*/
+	background-color: grey;
 }
