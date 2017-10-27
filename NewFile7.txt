@@ -1,1 +1,1 @@
-This is NewFile made from code.
+Response with status: 200 OK for URL: https://api.github.com/repos/Tanupreet/Bootstrap/contents/NewFile7.txt?client_id=60b9f23dedffbdfc476c&client_secret=d1c186c6373f96571c0bfcf76b84e4dc6fd0c15a
